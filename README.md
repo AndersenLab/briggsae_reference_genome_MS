@@ -16,8 +16,8 @@ XXXX
 
 #### Section 4: High divergence among the C. briggsae reference genomes
 
-[2_divergentregions](https://github.com/AndersenLab/briggsae_reference_genome_MS/tree/main/2_divergentregions)
+[4_divergentregions](https://github.com/AndersenLab/briggsae_reference_genome_MS/tree/main/4_divergentregions)
 
 #### Section 5: Selfing Caenorhabditis species have undergone more genome rearrangements than their outcrossing sister species
 
-[3_selfsynteny](https://github.com/AndersenLab/briggsae_reference_genome_MS/tree/main/3_selfsynteny)
+[5_selfsynteny](https://github.com/AndersenLab/briggsae_reference_genome_MS/tree/main/5_selfsynteny)

@@ -1,4 +1,4 @@
-# Scripts and files associated with the C. briggsae reference genomes manuscript
+# Scripts and files associated with the _C. briggsae_ reference genomes manuscript
 
 This repository contains scripts and files used to perform the analyses and make the figures in **Stevens _et al._ (2022). _Chromosome-level reference genomes for two strains of Caenorhabditis briggsae: an improved platform for comparative genomics_"**
 

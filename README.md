@@ -8,11 +8,11 @@ This repository contains scripts and files used to perform the analyses and make
 
 #### Section 2: High-quality protein-coding gene annotations using long- and short-read RNA-seq
 
-XXXX
+[2_genemodels](https://github.com/AndersenLab/briggsae_reference_genome_MS/tree/main/2_genemodels)
 
 #### Section 3: Recombination in the C. briggsae recombinant lines
 
-XXXX
+[3_recombinationmap](https://github.com/AndersenLab/briggsae_reference_genome_MS/tree/main/3_recombinationmap)
 
 #### Section 4: High divergence among the C. briggsae reference genomes
 
